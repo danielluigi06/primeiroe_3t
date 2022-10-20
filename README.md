@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Daniel Luigi - Nº 9
+Izabelli Costa Sanches- nr.22
 
 ## Conteúdo
-HTML, CSS e JavaScript
+HTML, CSS e javaScript
