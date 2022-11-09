@@ -20,6 +20,16 @@ body {
     border-radius: 10px;
     padding: 8px;
 }
+.calcF {
+    display: none;
+}
+#calcFin:checked + .calculadora .calcF {
+    display: block;
+}
+.calculadora input:focus {
+    background: white;
+    color: black;
+}
 
 #btnCalc {
     background: pink;
