@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Edson Kichie Mario Noguchi - Número 10
+Daniel Luigi n 9
 
 ## Conteúdo
 HTML, CSS e JavaScript
