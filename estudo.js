@@ -63,7 +63,7 @@ function calcula() {
     for (let m = 1; m <= t; m++) {
         res = val * (1 + (j / 100));
         val = res;
-        texto += m + ": " + moeda(res) + "<br>";
+        texto += m + ": " + moeda(res) + "<br>"; 
        // document.write("Mês " + m + " = " + moeda(res) + "<br>")
     }
     document.getElementById("mes").innerHTML=texto;
@@ -96,4 +96,3 @@ function fecharNotas() {
     r = 180 - r;
     document.getElementById("resultadofechar").innerHTML = "Falta: " + r;
 }
-

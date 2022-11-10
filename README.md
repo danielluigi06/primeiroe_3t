@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Daniel Luigi Seixas - Número 9
+Edson Kichie Mario Noguchi - Número 10
 
 ## Conteúdo
 HTML, CSS e JavaScript
